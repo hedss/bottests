@@ -1,0 +1,12 @@
+{
+  "name": "bottest",
+  "version": "0.0.1",
+  "description": "Test repo for resin-io-modules/resin-procbots",
+  "main": "dummy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedss/bottests.git"
+  },
+  "author": "Heds Simons <heds@whaleway.net>",
+  "license": "Apache-2.0"
+}
