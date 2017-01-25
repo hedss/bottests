@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## v4.2.0 - 2017-01-25
 
 * Merge test. [Heds Simons]
+
+## v4.1.2 - 2017-01-25
+
 * Map test. [Heds Simons]
 
 ## v4.1.1 - 2017-01-25
