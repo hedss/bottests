@@ -1,6 +1,6 @@
 {
   "name": "bottest",
-  "version": "13.2.4",
+  "version": "13.3.0",
   "description": "Test repo for resin-io-modules/resin-procbots",
   "main": "dummy.js",
   "repository": {
